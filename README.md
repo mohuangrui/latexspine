@@ -1,4 +1,4 @@
-# `latexspine` LaTeX 书脊模板
+## `latexspine` LaTeX 书脊模板
 
 ## 模板下载
 
