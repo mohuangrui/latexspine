@@ -1,4 +1,4 @@
-# `latexspine` LaTeX 书脊模板 LaTeX Template for Book Spine
+# `latexspine` LaTeX 书脊模板
 
 ## 模板下载
 
