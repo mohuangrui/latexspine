@@ -1,4 +1,4 @@
-## `latexspine` LaTeX 书脊模板
+# `latexspine` LaTeX 书脊模板
 
 ## 模板下载
 
@@ -7,3 +7,9 @@
 ## 编译建议
 
 * 与编译一般性 LaTeX 文档无异
+
+## 重要建议
+
+* 关于 LaTeX 的知识性问题，请查阅 [ucasthesis 和 LaTeX 知识小站](https://github.com/mohuangrui/ucasthesis/wiki) 和 [LaTeX Wikibook](https://en.wikibooks.org/wiki/LaTeX)。
+* 论文模板请见：[ucasthesis：中国科学院大学学位论文 LaTeX 模板](https://github.com/mohuangrui/ucasthesis)。
+* 开题报告请见：[ucasproposal: 中国科学院大学开题报告 LaTeX 模板](https://github.com/mohuangrui/ucasproposal)。
