@@ -7,6 +7,8 @@
 ## 编译建议
 
 * 与编译一般性 LaTeX 文档无异
+* 只需运行 pdflatex 或 xelatex (推荐) 或 luatex
+* 无需运行 bibtex
 
 ## 重要建议
 
