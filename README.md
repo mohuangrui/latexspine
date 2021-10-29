@@ -15,3 +15,7 @@
 
 * 论文模板见：[ucasthesis：中国科学院大学学位论文 LaTeX 模板](https://github.com/mohuangrui/ucasthesis)。
 * 开题报告见：[ucasproposal: 中国科学院大学开题报告 LaTeX 模板](https://github.com/mohuangrui/ucasproposal)。
+
+<h1 align="center">
+<img width="50%" src="https://github.com/mohuangrui/mohuangrui/blob/main/gallery/latexspine.gif" alt="latexspine">
+</h1>
